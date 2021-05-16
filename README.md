@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # Chakka-Manga
 
 <h1><b>Thinkerhub project</b></h1>
