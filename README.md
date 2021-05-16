@@ -6,4 +6,4 @@ Day 1<br>
 &emsp;|->Git basic concepts <br>
 &emsp;|->Basic installations<br>
 &emsp;|->Repository creation<br>
-&emsp;|->data collection<br>
+&emsp;|->Data collection<br>
