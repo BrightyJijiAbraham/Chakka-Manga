@@ -1,0 +1,6 @@
+Welcome
+Day 1
+    |->Git basic concepts 
+    |->Basic installations
+    |->Repository creation
+    |->data collection
