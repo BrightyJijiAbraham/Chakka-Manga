@@ -9,4 +9,4 @@ Day 1<br>
 &emsp;|->Data collection<br>
 Day 2<br>
 &emsp;|->Data collection<br>
-&emsp;|->Traning model<br>
+&emsp;|->Training model<br>

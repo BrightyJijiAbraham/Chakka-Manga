@@ -25,8 +25,8 @@ Data collection
     collected required data (images).
     created a folder containing two sub folders in which again two folders are added which contains the data.
 
-Traning model
+Training model
 
     started to use google collab.
     created a notebook to train the model.
-    succesfully completed the training.
+    successfully completed the training.
