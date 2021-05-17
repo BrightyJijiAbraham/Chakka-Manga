@@ -1,6 +1,32 @@
 Welcome
+
 Day 1
-    |->Git basic concepts 
-    |->Basic installations
-    |->Repository creation
-    |->data collection
+
+Git basic concepts 
+
+    Learned basic git commands and concepts.
+
+Basic installations
+
+    installations of required softwares.
+
+Repository creation
+
+    creation of repository to engage with team.
+
+Data collection
+
+    collected required data (images).
+
+Day 2
+
+Data collection
+
+    collected required data (images).
+    created a folder containing two sub folders in which again two folders are added which contains the data.
+
+Traning model
+
+    started to use google collab.
+    created a notebook to train the model.
+    succesfully completed the training.
