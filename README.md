@@ -10,3 +10,5 @@ Day 1<br>
 Day 2<br>
 &emsp;|->Data collection<br>
 &emsp;|->Training model<br>
+Day 3<br>
+&emsp;|->Learning deployment<br>
