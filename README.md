@@ -12,3 +12,11 @@ Day 2<br>
 &emsp;|->Training model<br>
 Day 3<br>
 &emsp;|->Learning deployment<br>
+Day 4<br>
+&emsp;|->Learning deployment<br>
+&emsp;|->Started working on deployment<br>
+Day 5<br>
+&emsp;|->Learning deployment<br>
+&emsp;|->Working on deployment<br>
+Day 6<br>
+&emsp;|->Finished deployment<br>
