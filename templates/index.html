@@ -44,7 +44,7 @@
     </nav>
 
     <section class="home-slider owl-carousel">
-        <div class="slider-item"  data-stellar-background-ratio="0.5">
+        <div class="slider-item"  data-stellar-background-ratio="0.5"  {% if  prediction %} style="background-image: url('/static/{{prediction[0]}}');" {% endif %} >
             <div class="overlay"></div>
             <div class="container">
                 <div class="row slider-text justify-content-center align-items-center">
@@ -65,7 +65,7 @@
                                     </form>
                                 </div>
                                 {% if  prediction %}
-                                <h1 class="mb-3 mt-5 bread">{{prediction}}</h1>
+                                <h1 class="mb-3 mt-5 bread">{{prediction[1]}}</h1>
                                 {% endif %}
                         </div>
                     </div>
