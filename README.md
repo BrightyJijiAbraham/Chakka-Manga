@@ -1,5 +1,5 @@
 # Chakka-Manga
-
+![BFH Banner](https://trello-attachments.s3.amazonaws.com/542e9c6316504d5797afbfb9/542e9c6316504d5797afbfc1/39dee8d993841943b5723510ce663233/Frame_19.png)
 <h1><b>Tinkerhub project</b></h1>
 A Machine Learning program to identify Chakka and Manga<br>
 <p>BY TEAM <a href="#" target="_blank">304 NOT MODIFIED</a> | TEAM ID <a href="#" target="_blank">BFH/recktvAZW57veJN25/2021</a><br>
