@@ -7,12 +7,12 @@ A Machine Learning program to identify Chakka and Manga<br>
 ## Team members
 <p>BY TEAM <a href="#" target="_blank">304 NOT MODIFIED</a><br>
 TEAM MEMBERS: <br>
-&emsp;1) <a href="https://github.com/BrightyJijiAbraham" target="_blank">BRIGHTY JIJI ABRAHAM</a>
-&emsp;2) <a href="https://github.com/amruthaaji05" target="_blank">AMRUTHA M</a>
-&emsp;3) <a href="https://github.com/hemanths007" target="_blank">HEMANTH S</a></p><br>
+&emsp;1) <a href="https://github.com/BrightyJijiAbraham">BRIGHTY JIJI ABRAHAM</a>
+&emsp;2) <a href="https://github.com/amruthaaji05">AMRUTHA M</a>
+&emsp;3) <a href="https://github.com/hemanths007">HEMANTH S</a></p>
 
 ## Team ID
-TEAM ID <a href="#" target="_blank">BFH/recktvAZW57veJN25/2021</a><br>
+<p>TEAM ID <a href="#" target="_blank">BFH/recktvAZW57veJN25/2021</a><br></p>
 
 ## Link to product walkthrough
 <p>https://drive.google.com/file/d/1e9tq5jSMgJQAPYP6TRQXuHYQkiPcmIGO/view?usp=sharing<br></p>
