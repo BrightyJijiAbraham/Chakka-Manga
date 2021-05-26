@@ -23,7 +23,7 @@ Step 1: open the app in web<br>
 Step 2: click choose file<br>
 step 3: choose the image you want to predict<br>
 step 4: click submit<br>
-step 5: wait for some time until the output appears below the submit form and the uploaded image can be loaded in the background<br>
+step 5: wait for some time until the output appears below the submit form and the uploaded image is loaded in the background<br>
 </p>
 
 ## Libraries used
