@@ -40,7 +40,7 @@ os<br>
 <p>
 step 1: install <a href="https://www.python.org/"> python </a><br>
 step 2: create a new virtual environment in the project folder (<a href="https://www.liquidweb.com/kb/how-to-setup-a-python-virtual-environment-on-windows-10/"> how to ?</a>)<br>
-step 3: activate the environment 
+step 3: activate the environment <br>
 step 4: install the required libraries mentioned above (<a href="https://packaging.python.org/tutorials/installing-packages/#use-pip-for-installing"> how to ?</a>)<br>
 </p>
 
