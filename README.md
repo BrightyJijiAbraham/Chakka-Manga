@@ -5,7 +5,7 @@
 A Machine Learning program to identify Chakka and Manga<br>
 
 ## Team members
-<p>BY TEAM <a href="#" target="_blank">304 NOT MODIFIED</a> | 
+<p>BY TEAM <a href="#" target="_blank">304 NOT MODIFIED</a><br>
 TEAM MEMBERS: <br>
 &emsp;1) <a href="https://github.com/BrightyJijiAbraham" target="_blank">BRIGHTY JIJI ABRAHAM</a>
 &emsp;2) <a href="https://github.com/amruthaaji05" target="_blank">AMRUTHA M</a>
