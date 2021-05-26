@@ -1,11 +1,9 @@
 from flask import Flask, render_template, request
 import sys
 import os
-from numpy.core.records import array
 import tensorflow as tf
 import numpy as np
 import matplotlib.pyplot as plt
-from tensorflow.keras.applications.imagenet_utils import decode_predictions, preprocess_input
 from keras.preprocessing import image
 from keras.preprocessing.image import img_to_array, load_img
 sys.path.append(os.path.abspath('./model'))
