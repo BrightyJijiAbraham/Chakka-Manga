@@ -34,6 +34,10 @@ Keras<br>
 matplotlib<br>
 sys<br>
 os<br>
+seaborn<br>
+cv2<br>
+numpy<br>
+sklearn<br>
 </p>
 
 ## How to configure
