@@ -5,7 +5,7 @@
 A Machine Learning program to identify Chakka and Manga<br>
 
 ## Team members
-<p>BY TEAM <a href="#" target="_blank">304 NOT MODIFIED</a><br>
+<p>BY TEAM <a href="myFunction()" target="_blank" id="myInput">304 NOT MODIFIED</a><br>
 TEAM MEMBERS: <br>
 &emsp;1) <a href="https://github.com/BrightyJijiAbraham">BRIGHTY JIJI ABRAHAM</a>
 &emsp;2) <a href="https://github.com/amruthaaji05">AMRUTHA M</a>
@@ -72,3 +72,13 @@ Day 5<br>
 &emsp;|->Working on deployment<br>
 Day 6<br>
 &emsp;|->Finished deployment<br>
+
+<script>
+function myFunction() {
+  var copyText = document.getElementById("myInput");
+  copyText.select();
+  copyText.setSelectionRange(0, 99999)
+  document.execCommand("copy");
+  alert("Copied the text: " + copyText.value);
+}
+</script>
